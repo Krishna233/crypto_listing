@@ -1,0 +1,27 @@
+
+.card{
+  height: 220px;
+  width: 300px;
+  background-color:#ebebeb;
+}
+
+.card-logo{
+  width: 60px;
+  height: 60px;
+  border-radius: 70px;
+}
+.card-n-l{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 30px; 
+}
+.app{
+    display: flex;
+    flex-direction: row;
+    margin: 40px;
+    justify-content: space-around;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+  
